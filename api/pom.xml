@@ -28,7 +28,7 @@
     </parent>
 
     <groupId>org.jboss.spec.javax.enterprise.concurrent</groupId>
-    <artifactId>jboss-concurrency-api_1.0_specjakarta.enterprise.concurrent-api</artifactId>
+    <artifactId>jboss-concurrency-api_1.0_spec</artifactId>
     <version>2.0.0.CR1-SNAPSHOT</version>
     <name>jakarta.enterprise.concurrent-api</name>
     <description>Jakarta Concurrency</description>
