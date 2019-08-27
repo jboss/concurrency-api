@@ -149,7 +149,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <configuration>
-                    <doctitle>Jakarta Concurrency ${project.version} specification</doctitle>
+                    <doctitle>Jakarta Concurrency specification</doctitle>
                     <bottom>
                         <![CDATA[Copyright (c) 2019 Eclipse Foundation.
     Use is subject to
